@@ -1,0 +1,8 @@
+{
+  "name": "KM pre-commit",
+  "description": "Katapult Media pre-commit hooks workflow template.",
+  "iconName": "pre-commit",
+  "filePatterns": [
+      ".pre-commit-config.yaml"
+  ]
+}
